@@ -1,6 +1,6 @@
 # Visual Basic Upgrade Companion Release Notes
 
-![VBUC](..\vbuc_logo.png)
+![VBUC](../vbuc_logo.png)
 
 The latest release is [VBUC 8.1](./VBUC_8_1_ReleaseNotes.md)
 
