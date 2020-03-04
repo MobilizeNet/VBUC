@@ -19,3 +19,6 @@ The Visual Basic Upgrade Companion is a VB 6.0 to VB.NET or C# migration tool. T
 
 - [Salmon King Seafood Demo App](https://github.com/MobilizeNet/SKS)
 - [Tailwind Point of Sale](https://github.com/microsoft/TailwindTraders-PointOfSale)
+
+# Got a question?
+Let our experts help you. Write us to our [forums](https://forums.mobilize.net/)
