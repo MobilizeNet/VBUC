@@ -9,7 +9,7 @@ The Visual Basic Upgrade Companion is a VB 6.0 to VB.NET or C# migration tool. T
 
 # Download the lastest Visual Basic Upgrade Companion (VBUC)
 
-- [VBUC 8.1](https://www.mobilize.net/vbuc-free-trial)
+- [VBUC Trial Download](https://www.mobilize.net/vbuc-free-trial)
 
 # VBUC Releases
 
